@@ -1,3 +1,4 @@
+# 加载 stableckpt/animefull-final-pruned 即可
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
